@@ -1,3 +1,5 @@
+console.log('script loaded');
+
 const element = document.querySelector('.tef-slider');
 const heading = document.createElement('h1');
 
